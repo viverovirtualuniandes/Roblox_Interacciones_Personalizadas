@@ -21,7 +21,7 @@ Este repositorio contiene el proyecto de Roblox con interacciones personalizadas
 
 Además, puedes explorar el metaverso publicado en Roblox a través del siguiente enlace.
 
-Metaverso en Roblox: https://www.roblox.com/games/108642433022293/Galer-a-Vivero-Virtual 
+Metaverso en Roblox: https://www.roblox.com/games/108642433022293/Interacciones-Personalizadas
 
 <img width="1077" alt="Paquete Base" src="https://github.com/user-attachments/assets/bee51301-80ee-4c0d-9c17-ba97f23b25e3">
 
